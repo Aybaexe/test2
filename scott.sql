@@ -1,4 +1,4 @@
-test
+test!
 
 DROP TABLE EMP;
 DROP TABLE DEPT;
